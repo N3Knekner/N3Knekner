@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @N3Knekner
-- 👀 I’m interested in Games, art and Whatever if is programming.
-- 🌱 I’m currently learning Online Games APIs and making one by my self. 
-- 💞️ I’m looking to collaborate on ~~YEP if are some space for work from home (Br) pls contact me ;-;~~ Currently building up my setup
-- 📫 How to reach me: 🤫
+- 👋 Hi, I'm @N3Knekner!
+- 👀 I'm interested in games, art, automation and programming;
+- 🌱 I'm currently starting to put my knowledge into practice;
+- 📫 How to reach me: Tag me;
+- 🧪 Experience in:
+  - Full Stack (HTML, CSS, JS), not designing UI;
+  - DataBase and data management (PostgreSQL);
+  - Python (really diverse);
 
 <!---
 N3Knekner/N3Knekner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
