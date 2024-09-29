@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @N3Knekner!
-- 👀 I'm interested in games, art, automation and programming;
-- 🌱 I'm currently starting to put my knowledge into practice;
+- 👀 I'm interested in games, art, automation and of course, programming;
+- 🌱 I'm currently messing with low level stuff;
 - 📫 How to reach me: Tag me;
 - 🧪 Experience in:
   - Full Stack (HTML, CSS, JS), not designing UI;
